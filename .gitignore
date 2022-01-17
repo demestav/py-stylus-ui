@@ -1,0 +1,5 @@
+.direnv
+archive
+.envrc
+dist
+*.egg-info
